@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_launcher_icons: ^0.11.0
   intl: ^0.18.0
   shared_preferences: ^2.0.15
 
@@ -17,11 +16,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-
-flutter_icons:
-  android: true
-  ios: true
-  image_path: "assets/android.png"
 
 flutter:
   uses-material-design: true

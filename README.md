@@ -1,4 +1,4 @@
-# WEEkLY SCHEDULER
+# WEEKLY SCHEDULER
 
 This github repository contains the flutter project assignment provided by Waybeo Technology Solutions Pvt Ltd. as a 1st step of the flutter developer interview.
 
